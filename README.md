@@ -8,6 +8,6 @@
 
 - Ürün içeriği ve fiyatlandırma bakımından filtreleme seçeneği websitesi içerisinde gömülü olarak gelmekte. İşletme yeni bir ürün eklemek istediğinde yine bu kategorilere ekleme/değiştirme yapabilmektedir.
 
-## Geliştirici Notu
+### Geliştirici Notu
 
 - Website içerisinde "Sepetim" sekmesini kişinin doğrudan görevli ile iletişime geçmesi ve siparişin doğru ve hızlı alınması adına tek sayfa olarak tasarlanmıştır.
