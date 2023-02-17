@@ -11,3 +11,6 @@
 ### Geliştirici Notu
 
 - Website içerisinde "Sepetim" sekmesini kişinin doğrudan görevli ile iletişime geçmesi ve siparişin doğru ve hızlı alınması adına tek sayfa olarak tasarlanmıştır.
+
+* Holm Burger projesi bir Github Projesi olup taslak olarak kullanılacağından herhangi bir değişimden etkilenmez.
+* Bu hizmeti sağlayacak işletmelere örnek olarak gösterilmesi amaçlanmaktadır.
