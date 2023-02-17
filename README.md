@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# Holm Burger (GitHub Project)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Holm Burger projesi, işletmeler için hazırlanmış QR Kod destekli bir websitesidir. İşletme QR Kod sayesinde müşterilerin sipariş verme aşamasında zaman kazanma, doğru bilgi verme ve sipariş doğruluğu açısından hız kazanması amaçlanmaktadır.
 
-## Available Scripts
+- İçeriğinin tamamen açık kaynak kodlu olmasından dolayı işletme doğrudan menü içeriğine müdahalede bulunabiliyor. Bu sayede ürün içeriği, fotoğrafı ve fiyatının değiştirilmesi veya eklenmesi çok daha kolaylaştırmaktadır.
 
-In the project directory, you can run:
+- Websitesi seçilen hosting hizmetine göre kişi karşılayabilir ve kişilerin web/mobil bilgi ihtiyacını karşılayabilmektedir.
 
-### `npm start`
+- Ürün içeriği ve fiyatlandırma bakımından filtreleme seçeneği websitesi içerisinde gömülü olarak gelmekte. İşletme yeni bir ürün eklemek istediğinde yine bu kategorilere ekleme/değiştirme yapabilmektedir.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Geliştirici Notu
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Website içerisinde "Sepetim" sekmesini kişinin doğrudan görevli ile iletişime geçmesi ve siparişin doğru ve hızlı alınması adına tek sayfa olarak tasarlanmıştır.
